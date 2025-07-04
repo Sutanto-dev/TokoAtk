@@ -12,9 +12,6 @@ TokoAtk adalah aplikasi web berbasis Java EE (JSP & Servlet) yang dirancang untu
 - Input dan laporan penjualan detail  
 - Sistem registrasi dan login user  
 - Pencarian dan filter data untuk kemudahan navigasi  
-- Pagination pada tampilan data  
-- Tampilan modern menggunakan TailwindCSS dan CSS kustom  
-
 ---
 
 ## Cara Build & Jalankan
